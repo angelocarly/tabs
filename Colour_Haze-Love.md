@@ -6,8 +6,8 @@ Source: https://tabs.ultimate-guitar.com/tab/colour-haze/love-tabs-1098699
 
 
 -------------------------------------------------------------------------------
-Sorry for the strange tab structure. I had to rewrite this tab otherwise it
-wouldn't fit the U-G website. Enjoy this piece of epicness !
+Sorry for the strange tab structure. I had to rewrite this tab otherwise it  
+wouldn't fit the U-G website. Enjoy this piece of epicness !  
 -------------------------------------------------------------------------------
 
 Tabbed by: Meuwh
@@ -16,18 +16,18 @@ Tuning: C - G - C - F - A - D
 
 ************************************
 
-| /   slide up
-| \   slide down
-| h   hammer-on
-| p   pull-off
-| ~   vibrato
-| +   harmonic
-| x   Mute note
-| b   Bend
-| pb  Pre-bend
-| br  Bend release
-| pbr Pre-bend release
-| brb Bend release bend
+| /   slide up  
+| \   slide down  
+| h   hammer-on  
+| p   pull-off  
+| ~   vibrato  
+| +   harmonic  
+| x   Mute note  
+| b   Bend  
+| pb  Pre-bend  
+| br  Bend release  
+| pbr Pre-bend release  
+| brb Bend release bend  
 
 ************************************
 ```
