@@ -2,7 +2,11 @@
 
 ## Chord structure
 
-- Major:      `1 3 5`
+| Name | Intervals |
+| --- | --- |
+| Major | `1 3 5` |
+
+- Major:      `
 - Major 7th:  `1 3 5 7`
 - Major 9th:  `1 3 5 7 9`
 - Major 11th: `1 3 5 7 9 11`
