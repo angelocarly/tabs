@@ -2,37 +2,39 @@
 
 ## Chord structure
 
-| Name | Intervals |
+| Name | Interval |
 | --- | --- |
-| Major | `1 3 5` |
+| Major |       `1 3 5` |
+| Major 7th |  `1 3 5 7` |
+| Major 9th |  `1 3 5 7 9` |
+| Major 11th | `1 3 5 7 9 11` |
 
-- Major:      `
-- Major 7th:  `1 3 5 7`
-- Major 9th:  `1 3 5 7 9`
-- Major 11th: `1 3 5 7 9 11`
+| Name | Interval |
+| --- | --- |
+| Minor      | `1 b3 5` |
+| Minor 7th  | `1 b3 5 7` |
+| Minor 9th  | `1 b3 5 7 9` |
+| Minor 11th |`1 b3 5 7 9 11` |
 
-- Minor:      `1 b3 5`
-- Minor 7th:  `1 b3 5 7`
-- Minor 9th:  `1 b3 5 7 9`
-- Minor 11th: `1 b3 5 7 9 11`
+| Name | Interval |
+| --- | --- |
+| 7   | `1 3 5 b7` |
+| 9   | `1 3 5 b7 9` |
+| 11  | `1 3 5 b7 9 11` |
+| 13  | `1 3 5 b7 9 11 13` |
+| sus2 | `1 2 5` ? |
+| sus4 | `1 4 5` |
 
-- 7:    `1 3 5 b7`
-- 9:    `1 3 5 b7 9`
-- 11:   `1 3 5 b7 9 11`
-- 13:   `1 3 5 b7 9 11 13`
-
-- sus2: `1 2 5` ?
-- sus4: `1 4 5`
-
-- augmented:  `1 3 #5`
-- diminished: `1 b3 b5`
-- dim 7:      `1 b3 bb7(6)`
-- half dim:   `1 b3 b5 b7`
-
-- 6: `1 3 5 6`
-- minor 6: `1 b5 5 6`
-- min/maj 7: `1 b3 5 7`
-- 6/9: `1 3 5 6 9`
+| Name | Interval |
+| --- | --- |
+| augmented  | `1 3 #5` |
+| diminished | `1 b3 b5` |
+| dim 7      | `1 b3 bb7(6)` |
+| half dim   | `1 b3 b5 b7` |
+| 6 | `1 3 5 6` |
+| minor 6 | `1 b5 5 6` |
+| min/maj 7  |`1 b3 5 7` |
+| 6/9 | `1 3 5 6 9` |
 
 ## Basic shapes
  
